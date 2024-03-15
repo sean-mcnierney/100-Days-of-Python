@@ -16,3 +16,4 @@ print(f"Each person should pay: ${total_per_person:.2f}")
 
 #This tip calculator takes in 3 inputs. Total bill, the percentage of tip you would like to give, and how many people are splitting the bill. 
 #It will calculate the tip and add it onto the total bill and then divide by how many people are in the party to give the total each person should pay
+#Next time I will take the inputs first and then perform the math instead of doing it step by step as I find it easier after the fact. 
